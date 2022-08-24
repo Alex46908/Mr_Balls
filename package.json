@@ -1,0 +1,22 @@
+{
+  "name": "mr_balls",
+  "version": "1.0.0",
+  "description": "Tg bot for administration",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alex46908/Mr_Balls.git"
+  },
+  "author": "Alexandr, Zakarka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alex46908/Mr_Balls/issues"
+  },
+  "homepage": "https://github.com/Alex46908/Mr_Balls#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.58.0"
+  }
+}
